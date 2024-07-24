@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# jetbrains specific
+.idea/*
+!.idea/indexLayout.xml
+!.idea/vcs.xml
+!.idea/runConfigurations/
